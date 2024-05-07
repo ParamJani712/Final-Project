@@ -15,8 +15,10 @@ In this study, I examined the flight properties of a paper airplane and understo
 
 # Code listing 
 1. finalproject.m: This is the main script file with all the codes for flight path simulation
+https://github.com/ParamJani712/Final-Project/blob/main/finalproject.m
 
 2. EqMotion.m: This is a function I used to calculate the equations of motion of the airplane.
+https://github.com/ParamJani712/Final-Project/blob/main/EqMotion.m
 
 # Figures
 
