@@ -23,4 +23,15 @@ https://github.com/ParamJani712/Final-Project/blob/main/EqMotion.m
 # Figures
 
 ## Fig. 1: Single Parameter Variation
+https://github.com/ParamJani712/Final-Project/blob/main/figure1.fig 
+
+## Fig. 2: Monte Carlo Simulation
+https://github.com/ParamJani712/Final-Project/blob/main/figure2.fig
+
+## Fig. 3: Time derivatives (Fig. 4, 5 and 6)
+https://github.com/ParamJani712/Final-Project/blob/main/figure3.fig 
+https://github.com/ParamJani712/Final-Project/blob/main/figure4.fig 
+https://github.com/ParamJani712/Final-Project/blob/main/figure5.fig 
+https://github.com/ParamJani712/Final-Project/blob/main/figure6.fig 
+
    
